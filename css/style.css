@@ -1,9 +1,7 @@
 /* My Styles */
 
 body {
-    /* background: lightgray; */
+    font-family: 'Comico-Regular';
+    background: pink;
 }
 
-h1 {
-    font-family: 'Comico-Regular';
-}
