@@ -1,4 +1,4 @@
 // My Scripts
 
 console.log('Page Loaded');
-new CircleType(document.getElementById("demo1")).radius(384).dir(-1);
+new CircleType(document.getElementById("circletype")).radius(700).dir(1);
